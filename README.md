@@ -15,7 +15,7 @@ HeronPanel is built using advanced technologies like **Node.js, Electron, and mo
 * 🌙 Dark/Light theme support
 * 🧩 Fully customizable interface
 * 📊 Real-time server monitoring
-* 💻 Works locally on Windows PC
+* 💻 Works Locally / VPS on Windows PC
 
 ## 🎯 Purpose
 
@@ -28,3 +28,7 @@ HeronPanel is fully customized and managed by its owner. All features, design, a
 ---
 
 **HeronPanel – Simple, Powerful, and Professional Server Management Panel**
+
+## 👑 HeronPanel Creator
+
+__@DhwaJXD__
