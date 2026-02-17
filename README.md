@@ -15,7 +15,7 @@ HeronPanel is built using advanced technologies like **Node.js, Electron, and mo
 * 🌙 Dark/Light theme support
 * 🧩 Fully customizable interface
 * 📊 Real-time server monitoring
-* 💻 Works Locally / VPS on Windows PC
+* 💻 Works Locally / Real-VPS
 
 ## 🎯 Purpose
 
