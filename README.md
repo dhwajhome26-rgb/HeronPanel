@@ -37,6 +37,9 @@ __@DhwaJXD__
 
 ## How To Install?
 Step 1: Join Discord Server: https://discord.gg/47GwWkxZfN
+
 Step 2: Make Ticket For __Buy / Install__ HeronPanel + Daemon
 
 ✅ Done [ Wait For Reply ]
+
+---
